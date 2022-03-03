@@ -1,5 +1,4 @@
 module.exports = {
-  extends: ['standard', 'standard-jsx'],
   plugins: ['simple-import-sort', 'import'],
   rules: {
     'import/first': 1,
