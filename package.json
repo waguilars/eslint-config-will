@@ -1,17 +1,16 @@
 {
   "name": "eslint-config-will",
-  "version": "1.2.0",
-  "description": "",
+  "version": "1.3.2",
+  "description": "Personal eslint config",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
-  "author": "",
+  "author": "Wilson Aguilar <waguilars@est.ups.edu.ec>",
   "license": "ISC",
-  "peerDependencies": {
+  "dependencies": {
+    "standard": "^16.0.4",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-simple-import-sort": "^7.0.0",
-    "standard": "^16.0.4"
+    "eslint-config-standard": "16.0.3",
+    "eslint-config-standard-jsx": "10.0.0"
   }
 }
