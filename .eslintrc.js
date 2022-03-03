@@ -7,6 +7,6 @@ module.exports = {
     'import/no-duplicates': 1,
     semi: [1, 'always'],
     'simple-import-sort/imports': 1,
-    'simple-import-sort/exports': 1,
-  },
+    'simple-import-sort/exports': 1
+  }
 };
